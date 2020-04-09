@@ -1,9 +1,4 @@
-/* 
-Progammer: Munqiz Minhas / 11AM 
-Instructor: Dr. Karl Zerangue 
-Due: 4-9-2020
-Assignment: Programming Assignment #2 - StrangeMan Game
-
+/*
 A Java application, StrangeMan, reminiscent of the traditional, 
 Hangman Game, but no drawing of a hanging stick figure will be produced.
 -----------------------------------------------------------------------------
